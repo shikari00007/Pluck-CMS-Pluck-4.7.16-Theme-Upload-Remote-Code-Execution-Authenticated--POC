@@ -9,3 +9,4 @@
 * package which allows us to access Webshell.
 * Usage : python3 exploit.py <IP> <Port> <Password> <Pluckcmspath>
 * Example:  python3 exploit.py 127.0.0.1 80 admin /pluck
+* POC Exploit: https://youtu.be/vWZITp_FTTc
